@@ -11,6 +11,17 @@
         <p>
             Lets learn out new coding programmes.
           
+            <?php 
+
+                $var2 =  "hello";
+                $var = "shivam ";
+                $var3 = $var2 . " " . $var ;
+
+                echo "$var3";
+                $var4 = "The quick brown box jump wall.  ";
+                echo "{$var4}again";
+              ?>
+
         </p>
     </body>
  </html>
