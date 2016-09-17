@@ -1,0 +1,30 @@
+body{
+    background: aqua;
+
+}
+
+h1{
+    color: red;
+    font-family: cursive;
+}
+
+h3{
+    text-align: center;
+}
+
+div{
+    border: 5px solid black;
+    background-color: lightcoral;
+}
+
+.standford{
+    float: left;
+    width: 600px;
+
+}
+
+
+.codecademy{
+    float: right;
+    width: 600px;
+}
